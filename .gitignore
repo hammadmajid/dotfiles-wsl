@@ -7,7 +7,6 @@
 
 # package manager directories
 .npm/
-.nvm/
 .cargo/
 .tmux/
 
