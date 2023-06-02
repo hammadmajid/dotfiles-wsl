@@ -31,3 +31,6 @@
 
 # projects/ dir
 projects/*
+
+# user-specific configuration
+.local/
