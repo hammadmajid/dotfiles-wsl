@@ -8,10 +8,6 @@ set -gx PATH /home/linuxbrew/.linuxbrew/bin $PATH
 # show system info on startup
 neofetch
 
-# oh-my-posh
-oh-my-posh init fish --config /home/hammad/.config/fish/prompt.omp.json | source
-
-
 # start tmux
 tmux
 
