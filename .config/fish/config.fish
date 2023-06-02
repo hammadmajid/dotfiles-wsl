@@ -23,3 +23,5 @@ alias gitui="gitui -t mocha.ron"
 # alias ls to exa
 alias ls="exa -aF"
 
+# use startship promt
+starship init fish | source
