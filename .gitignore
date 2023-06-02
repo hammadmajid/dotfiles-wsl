@@ -9,6 +9,7 @@
 .npm/
 .nvm/
 .cargo/
+.tmux/
 
 # development environment files
 .node_repl_history
