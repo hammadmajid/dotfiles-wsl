@@ -23,8 +23,9 @@
 # Docker related files
 .docker/
 
-# SSH keys and configuration
+# keys and configuration
 .ssh/
+.gnupg/
 
 # cloud provider configuration
 .aws
