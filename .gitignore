@@ -1,0 +1,33 @@
+# editor backup files
+*~
+
+# system logs and caches
+.log/
+.cache/
+
+# package manager directories
+.npm/
+.nvm/
+.cargo/
+
+# development environment files
+.node_repl_history
+.rustup/
+
+# session and history files
+.bash_logout
+.bash_history
+.python_history
+
+# Docker related files
+.docker/
+
+# SSH keys and configuration
+.ssh/
+
+# cloud provider configuration
+.aws
+.azure
+
+# projects/ dir
+projects/*
