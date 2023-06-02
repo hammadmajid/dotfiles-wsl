@@ -25,5 +25,5 @@ alias cl="clear -x"
 alias gitui="gitui -t mocha.ron"
 
 # alias ls to exa
-alias ls="exa -1aF"
+alias ls="exa -aF"
 
