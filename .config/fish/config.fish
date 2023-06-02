@@ -23,3 +23,7 @@ alias cl="clear -x"
 
 # use catppuccin mocha theme for gitui
 alias gitui="gitui -t mocha.ron"
+
+# alias ls to exa
+alias ls="exa -1aF"
+
