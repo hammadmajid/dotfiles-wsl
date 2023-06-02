@@ -5,3 +5,6 @@
 
 [core]
 	editor = hx
+
+[commit]
+	gpgsign = true
