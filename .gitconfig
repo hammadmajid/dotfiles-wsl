@@ -1,6 +1,7 @@
 [user]
 	email = hm.hammadmajid@gmail.com
 	name = hammadmajid
+	signingkey = 3C5C71B421429198
 
 [core]
 	editor = hx
