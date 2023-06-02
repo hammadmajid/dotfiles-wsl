@@ -1,0 +1,23 @@
+theme = "catppuccin_mocha"
+
+[editor]
+auto-save = true
+true-color = true
+color-modes = true
+line-number = "relative"
+
+[editor.indent-guides]
+render = true
+character = "╎" # Some characters that work well: "▏", "┆", "┊", "⸽"
+skip-levels = 0
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "block"
+
+[editor.file-picker]
+hidden = false
+
+[keys.insert]
+j = { j = "normal_mode"} # maps jj to exit insert mode
