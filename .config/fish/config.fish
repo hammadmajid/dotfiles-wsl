@@ -21,7 +21,7 @@ alias cl="clear -x"
 alias gitui="gitui -t mocha.ron"
 
 # alias ls to exa
-alias ls="exa --all --classify --icons"
+alias ls="exa --all --classify --icons --group-directories-first"
 
 # use startship promt
 starship init fish | source
