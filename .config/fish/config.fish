@@ -8,9 +8,6 @@ set -gx PATH /home/linuxbrew/.linuxbrew/bin $PATH
 # show system info on startup
 neofetch
 
-# start tmux
-tmux
-
 # set py to python3
 alias py="python3"
 
