@@ -13,6 +13,7 @@
 # development environment files
 .node_repl_history
 .rustup/
+.dotnet/
 
 # session and history files
 .bash_logout
@@ -36,3 +37,6 @@ projects/*
 # user-specific configuration
 .local/
 .z
+
+# editor related files
+.vscode-server/
