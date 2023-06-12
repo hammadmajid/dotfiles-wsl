@@ -19,6 +19,7 @@
 .bash_logout
 .bash_history
 .python_history
+.lesshst
 
 # Docker related files
 .docker/
