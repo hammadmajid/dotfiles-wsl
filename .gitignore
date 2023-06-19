@@ -40,3 +40,7 @@ i/
 
 # editor related files
 .vscode-server/
+
+# jupyter lab 
+.ipython/
+.jupyter/
