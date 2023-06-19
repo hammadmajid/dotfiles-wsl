@@ -1,3 +1,5 @@
+i/
+
 # editor backup files
 *~
 
@@ -31,9 +33,6 @@
 # cloud provider configuration
 .aws
 .azure
-
-# projects/ dir
-projects/*
 
 # user-specific configuration
 .local/
