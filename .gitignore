@@ -16,6 +16,8 @@ i/
 .node_repl_history
 .rustup/
 .dotnet/
+.giget/
+.wget-hsts
 
 # session and history files
 .bash_logout
