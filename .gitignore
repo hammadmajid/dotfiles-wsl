@@ -24,6 +24,8 @@ i/
 .bash_history
 .python_history
 .lesshst
+.motd_shown
+.sudo_as_admin_successful
 
 # Docker related files
 .docker/
