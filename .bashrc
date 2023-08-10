@@ -113,5 +113,3 @@ if ! shopt -oq posix; then
 fi
 . "$HOME/.cargo/env"
 
-# z - jump between dirs
-. /home/linuxbrew/.linuxbrew/etc/profile.d/z.sh
