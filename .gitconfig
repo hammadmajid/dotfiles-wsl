@@ -1,13 +1,15 @@
 [user]
-	email = hm.hammadmajid@gmail.com
-	name = hammadmajid
-	signingkey = 3C5C71B421429198
+	email = hammadmajid@proton.me
+	name = Hammad Majid
 
 [core]
 	editor = hx
 
-[commit]
-	gpgsign = true
-
 [pull]
 	ff = only
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/linuxbrew/.linuxbrew/Cellar/gh/2.32.1/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/home/linuxbrew/.linuxbrew/Cellar/gh/2.32.1/bin/gh auth git-credential
