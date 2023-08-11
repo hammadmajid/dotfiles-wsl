@@ -815,3 +815,5 @@ alias docker = podman
 
 # alias gg to gitui
 alias gg = gitui
+
+source ~/.zoxide.nu

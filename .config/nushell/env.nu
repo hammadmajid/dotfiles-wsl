@@ -82,5 +82,7 @@ $env.NU_PLUGIN_DIRS = [
 # $env.PATH = ($env.PATH | split row (char esep) | prepend '/some/path')
 $env.PATH = ($env.PATH | split row (char esep) | prepend '/home/linuxbrew/.linuxbrew/bin')
 
+zoxide init nushell | save -f ~/.zoxide.nu
+
 mkdir ~/.cache/starship
 starship init nu | save -f ~/.cache/starship/init.nu

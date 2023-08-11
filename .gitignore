@@ -26,6 +26,7 @@ i/
 .lesshst
 .motd_shown
 .sudo_as_admin_successful
+.zoxide.nu
 
 # Docker related files
 .docker/
