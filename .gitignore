@@ -44,6 +44,7 @@ i/
 
 # editor related files
 .vscode-server/
+.viminfo
 
 # jupyter lab 
 .ipython/
