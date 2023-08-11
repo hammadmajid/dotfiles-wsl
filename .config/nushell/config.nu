@@ -809,3 +809,6 @@ $env.config = {
 }
 
 use ~/.cache/starship/init.nu
+
+# alias docker to podman external tools
+alias docker = podman
