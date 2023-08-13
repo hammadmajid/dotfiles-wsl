@@ -1,10 +1,12 @@
-theme = "base16_transparent"
+theme = "dracula"
 
 [editor]
 auto-save = true
 true-color = true
 color-modes = true
 line-number = "relative"
+cursorline = true
+bufferline = "always"
 
 [editor.indent-guides]
 render = true
