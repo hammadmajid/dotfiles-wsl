@@ -112,3 +112,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
+alias zj=zellij
