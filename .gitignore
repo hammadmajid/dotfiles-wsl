@@ -18,6 +18,8 @@ i/
 .dotnet/
 .giget/
 .wget-hsts
+.lldb/
+bin/
 
 # session and history files
 .bash_logout
