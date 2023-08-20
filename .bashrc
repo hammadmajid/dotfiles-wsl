@@ -113,3 +113,10 @@ if ! shopt -oq posix; then
 fi
 
 alias zj=zellij
+# pnpm
+export PNPM_HOME="/home/hammad/.local/share/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
