@@ -1,5 +1,3 @@
-i/
-
 # editor backup files
 *~
 
@@ -10,7 +8,6 @@ i/
 # package manager directories
 .npm/
 .cargo/
-.tmux/
 
 # development environment files
 .node_repl_history
