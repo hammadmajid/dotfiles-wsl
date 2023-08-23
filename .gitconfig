@@ -7,9 +7,3 @@
 
 [pull]
 	ff = only
-[credential "https://github.com"]
-	helper = 
-	helper = !/home/linuxbrew/.linuxbrew/Cellar/gh/2.32.1/bin/gh auth git-credential
-[credential "https://gist.github.com"]
-	helper = 
-	helper = !/home/linuxbrew/.linuxbrew/Cellar/gh/2.32.1/bin/gh auth git-credential
