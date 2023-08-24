@@ -11,3 +11,7 @@ zstyle :compinstall filename '/home/hammad/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
+
+# Configure starship prompt
+eval "$(starship init zsh)"
+
