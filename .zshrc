@@ -25,3 +25,7 @@ EDITOR=hx
 alias ls="exa --grid --icons --group-directories-first"
 alias gg="gitui"
 alias zj="zellij"
+
+# init zoxide
+eval "$(zoxide init zsh)"
+
