@@ -15,3 +15,5 @@ compinit
 # Configure starship prompt
 eval "$(starship init zsh)"
 
+# cache Rust builds with sccache
+RUSTC_WRAPPER="$(which sccache)"
