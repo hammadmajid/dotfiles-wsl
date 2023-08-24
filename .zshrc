@@ -18,6 +18,9 @@ eval "$(starship init zsh)"
 # cache Rust builds with sccache
 RUSTC_WRAPPER="$(which sccache)"
 
+# set the default editor to helix
+EDITOR=hx
+
 ## aliases
 alias ls="exa --grid --icons --group-directories-first"
 alias gg="gitui"
