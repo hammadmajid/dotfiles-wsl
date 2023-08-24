@@ -27,6 +27,7 @@ bin/
 .sudo_as_admin_successful
 .zoxide.nu
 .zcompdump
+.histfile
 
 # Docker related files
 .docker/
