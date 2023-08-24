@@ -26,6 +26,7 @@ bin/
 .motd_shown
 .sudo_as_admin_successful
 .zoxide.nu
+.zcompdump
 
 # Docker related files
 .docker/
@@ -49,3 +50,4 @@ bin/
 # jupyter lab 
 .ipython/
 .jupyter/
+
