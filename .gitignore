@@ -30,6 +30,10 @@ bin/
 .zoxide.nu
 .zcompdump
 .histfile
+.zsh_history
+.zcompdump-hp-elitebook-5.8.1.zwc
+.zcompdump-hp-elitebook-5.8.1
+.oh-my-zsh/
 
 # Docker related files
 .docker/
