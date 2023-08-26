@@ -31,3 +31,11 @@ shebangs = ["deno", "node"]
 roots = ["deno.json", "package.json", "tsconfig.json"]
 config = { enable = true, lint = true, unstable = true }
 language-server = { command = "deno", args = ["lsp"], language-id = "typescriptreact" }
+
+[[language]]
+name = "astro"
+scope = "source.astro"
+injection-regex = "astro"
+file-types = ["astro"]
+language-server = { command = "astro-ls", args = ["--stdio"], environment = {"node" = "node"}, config.typescript.tsdk = "/usr/local/lib/node_modules/typescript/lib" }
+
