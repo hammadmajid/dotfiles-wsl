@@ -37,5 +37,5 @@ name = "astro"
 scope = "source.astro"
 injection-regex = "astro"
 file-types = ["astro"]
-language-server = { command = "astro-ls", args = ["--stdio"], environment = {"node" = "node"}, config.typescript.tsdk = "/usr/local/lib/node_modules/typescript/lib" }
+language-server = { command = "astro-ls", args = ["--stdio"], config.typescript.tsdk = "/usr/local/lib/node_modules/typescript/lib" }
 
