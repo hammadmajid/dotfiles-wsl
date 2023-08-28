@@ -20,6 +20,3 @@ select = "block"
 
 [editor.file-picker]
 hidden = false
-
-[keys.insert]
-j = { j = "normal_mode"} # maps jj to exit insert mode
