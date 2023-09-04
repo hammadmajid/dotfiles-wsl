@@ -1,4 +1,4 @@
-theme = "onedark"
+theme = "darcula-solid"
 
 [editor]
 auto-save = true
@@ -11,7 +11,7 @@ bufferline = "always"
 [editor.indent-guides]
 render = true
 character = "╎" # Some characters that work well: "▏", "┆", "┊", "⸽"
-skip-levels = 0
+skip-levels = 1
 
 [editor.cursor-shape]
 insert = "bar"
