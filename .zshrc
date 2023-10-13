@@ -101,6 +101,7 @@ export RUSTC_WRAPPER="$(which sccache)"
 alias ls="exa --grid --icons --group-directories-first"
 alias gg="gitui"
 alias zj="zellij"
+alias claer="clear"
 
 # Initiate programs
 eval "$(zoxide init zsh)"
